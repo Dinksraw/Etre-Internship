@@ -56,6 +56,36 @@ ETRE PORTAL/
 
 ---
 
+## 📸 Screenshots
+
+### 🌐 Public Feedback Portal
+The main submission page where users submit feedback, attach photos, and upload videos.
+
+![Feedback Form](1web/assets/images/screenshots/feedback-form.jpg)
+
+---
+
+### 🔐 Admin Login
+Secure admin authentication page with BCrypt password verification.
+
+![Admin Login](1web/assets/images/screenshots/admin-login.jpg)
+
+---
+
+### 🛠️ Admin Dashboard
+The admin management interface for reviewing, approving, rejecting, and deleting submitted feedback.
+
+![Admin Dashboard](1web/assets/images/screenshots/admin-dashboard.jpg)
+
+---
+
+### 📱 Android Mobile App
+The Capacitor-wrapped native Android app displaying the feedback portal on mobile.
+
+![Android App](1web/assets/images/screenshots/android-app.jpg)
+
+---
+
 ## 🚀 Quick Start & Installation
 
 ### Prerequisites
