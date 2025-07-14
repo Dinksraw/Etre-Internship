@@ -1,0 +1,51 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+
+# Environment and sensitive config files
+.env
+.env.local
+.env.*.local
+*.log
+
+# Web upload directories (keep directory structure with .gitkeep)
+1web/assets/uploads/photos/*
+!1web/assets/uploads/photos/.gitkeep
+1web/assets/uploads/videos/*
+!1web/assets/uploads/videos/.gitkeep
+
+# Node dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android & Gradle artifacts
+.gradle/
+**/android/.gradle/
+**/android/build/
+**/android/app/build/
+**/android/local.properties
+**/android/captures/
+**/android/.externalNativeBuild/
+**/android/.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
