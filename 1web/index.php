@@ -11,7 +11,7 @@
     <header>
     <div class="container" style="display: flex; align-items: center; gap: 10px;">
         <img src="assets/images/logos.png" alt="ETRE Logo"
-             style="height: 80px; background-color: #15064dff; padding: 5px; border-radius: 200px;">
+             style="height: 80px; border-radius: 50%; object-fit: contain;">
         <div>
             <h1>ETRE Feedback System</h1>
             <p>Share your thoughts and suggestions with us</p>
